@@ -1,0 +1,624 @@
+.white {
+    color: #ffffff;
+}
+.width {
+    width: 100%;
+}
+.demo-block ul a.btn:hover {
+    color: #000;
+}
+.btn-default.btn-white:hover, .btn-default.btn-white:focus, .btn-default.btn-white:active {
+    border-color: #fff;
+    background: #fff;
+}
+.demo-block ul a:hover, .demo-block ul a:focus, .demo-block ul a:active {
+    color: #ffca00;
+}
+.btn-info:hover, .btn-info:focus, .btn-info:active {
+    background: #ffb300;
+    border-color: #ffb302;
+}
+.social-networks a {
+    display: block;
+    width: 31px;
+    height: 31px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    background: #333;
+    position: relative;
+    overflow: hidden;
+    border-radius: 100%;
+    transition: all 0.25s linear;
+}
+.social-networks a:hover, .social-networks a:focus, .social-networks a:active {
+    background: #ffb302;
+    color: #000000!important;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a.anchor-active, .navbar-default .navbar-nav > li > a:active {
+    color: #ff9a00;
+}
+.btn-default.btn-white:hover, .btn-default.btn-white:focus, .btn-default.btn-white:active {
+    border-color: #ff9a00!important;
+    background: #ff9a00;
+}
+#footer {
+    color: #d9dbdc;
+    text-align: center;
+    padding-bottom: 77px;
+    background-color: #0b132b;
+}
+#header.sticky {
+    padding: 30px 0 20px 0!important;
+}
+.tituloimg{
+    padding-bottom: 90px;
+  }
+  .textoAmarillo{
+    color:#ffca00;
+    font-weight: bold;
+  }
+
+#capital{
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#couta{
+  border-radius: 10px;
+  padding-left: 20px;
+    padding-right: 20px;   
+}
+  
+#interes{
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+
+.slider {
+    box-sizing: border-box;
+    position: relative;
+    width: 75%;
+    height: 110px;
+    margin: 0 auto 26px auto;
+    padding-top: 65px;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none; }
+    .slider .timeline {
+      position: relative; }
+      .slider .timeline .markers {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 10px;
+        font: 16px/16px  sans-serif;
+        background: #e5e6e7;
+        border-radius: 5px;
+        cursor: default; }
+        .slider .timeline .markers div {
+          position: absolute;
+          top: 10px;
+          color: #808184;
+          text-align: center;
+          -webkit-transform: translate(-50%, 0);
+          -moz-transform: translate(-50%, 0);
+          -ms-transform: translate(-50%, 0);
+          -o-transform: translate(-50%, 0);
+          transform: translate(-50%, 0); }
+          .slider .timeline .markers div:before {
+            content: '';
+            display: block;
+            width: 0;
+            height: 12px;
+            margin: 0 auto 5px auto;
+            border-left: 2px solid #e5e6e7; }
+          .slider .timeline .markers div:first-child {
+            left: 0;
+            text-align: left;
+            -webkit-transform: none;
+            -moz-transform: none;
+            -ms-transform: none;
+            -o-transform: none;
+            transform: none; }
+            .slider .timeline .markers div:first-child:before {
+              margin-left: 4px; }
+          .slider .timeline .markers div.last {
+            right: 0;
+            text-align: right;
+            -webkit-transform: none;
+            -moz-transform: none;
+            -ms-transform: none;
+            -o-transform: none;
+            transform: none; }
+            .slider .timeline .markers div.last:before {
+              margin-right: 4px; }
+      .slider .timeline .bar {
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 10px;
+        height: 10px;
+        background: #9c63ff  repeat;
+        border-radius: 5px; }
+    .slider .playhead {
+      position: absolute;
+      top: 53px;
+      width: 30px;
+      height: 30px;
+      margin-left: -17px;
+      background: #fff;
+      border: 2px solid #9c63ff;
+      border-radius: 17px;
+      cursor: move; }
+      .slider .playhead div {
+        width: 16px;
+        height: 16px;
+        margin: 7px auto 0 auto;
+        background: #9c63ff;
+        border-radius: 8px; }
+    .slider .playhint {
+      position: absolute;
+      top: 0;
+      padding: 4px 5px 0 7px;
+      color: #fff;
+      font: 24px/32px  sans-serif;
+      text-align: center;
+      letter-spacing: 0.075em;
+      background: #9c63ff;
+      border-radius: 4px;
+      cursor: default;
+      -webkit-transform: translate(-50%, 0);
+      -moz-transform: translate(-50%, 0);
+      -ms-transform: translate(-50%, 0);
+      -o-transform: translate(-50%, 0);
+      transform: translate(-50%, 0); }
+      .slider .playhint abbr {
+        position: relative;
+        top: -0.4em;
+        margin-left: 2px;
+        font-size: 0.6em; }
+      .slider .playhint .icon {
+        position: absolute;
+        left: 50%;
+        bottom: -8px;
+        width: 12px;
+        height: 10px;
+        margin-left: -6px;
+        background: url(https://cdn.vectorstock.com/img/pages/purchase/sprite.png) -117px -47px no-repeat;
+        background-size: 211px 70px; }
+
+
+
+        .tituloD{
+          text-align: center;
+          padding-top: 70px;
+         
+          font-family: sans-serif;
+          text-transform: capitalize;
+        }
+        .tituloO{
+          padding-top: 70px;
+          font-style: normal;
+          font-family: sans-serif;
+          text-transform: capitalize;
+        }
+        .txt{
+          font-family: sans-serif;
+          text-transform: capitalize;
+          font-weight: normal;
+        }
+        .tab{
+          height: 100px;
+          overflow-y: auto;
+          width: 100%;
+        }
+        .centerForm{
+          text-align: center;
+        }
+
+
+        .jm{
+          padding-bottom: 100px;
+          /* From https://css.glass */
+background: rgba(224, 191, 252, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(224, 191, 252, 0.3);
+        }
+        /*-------MODAL-------*/
+        #modal{
+          border: 0px;
+          max-width: 50ch;
+          border-radius: 20px;
+          background-color: #f5d954;
+          
+        }
+        #modal::backdrop{
+         /* From https://css.glass */
+          background: rgba(11, 19, 43, 0.59);
+          
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(7.1px);
+          -webkit-backdrop-filter: blur(7.1px);
+          border: 1px solid rgba(11, 19, 43, 0.3);
+        }
+        #btn-abrir-modal{
+          color: #9c63ff;
+          background-color: white;
+          border: 2px solid #9c63ff;
+         
+          border-radius: 10px;
+          padding: 10px; 
+        }
+        #btn-abrir-modal:hover{
+          color: white;
+          background-color: #9c63ff;
+        }
+        #btn-cerrar-modal{
+          background-color: transparent;
+          border: 0px;
+          margin-left: 90%;
+        }
+        .card{
+          text-align: center;
+          text-transform: capitalize;
+          font-family: sans-serif;
+        }
+        .card1{
+          
+          text-align: center;
+          color: white;
+          text-transform: capitalize;
+          font-family: sans-serif;
+        }
+        .txtcard{
+          font-size: 14px;
+          font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          line-height: 24px;
+          letter-spacing: 1px;
+        }
+        /*--------------------*/
+        #moda{
+          color: white;
+          border: 0px;
+          max-width: 50ch;
+          border-radius: 20px;
+          background-color: #9c63ff;
+        }
+        #moda::backdrop{
+         /* From https://css.glass */
+          background: rgba(11, 19, 43, 0.59);
+          
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(7.1px);
+          -webkit-backdrop-filter: blur(7.1px);
+          border: 1px solid rgba(11, 19, 43, 0.3);
+        }
+        #btn-abrir-moda{
+          color: #9c63ff;
+          background-color: white;
+          border: 2px solid #9c63ff;
+         
+          border-radius: 10px;
+          padding: 10px; 
+        }
+        #btn-abrir-moda:hover{
+          color: white;
+          background-color: #9c63ff;
+        }
+        #btn-cerrar-moda{
+          background-color: transparent;
+          border: 0px;
+          margin-left: 90%;
+        }
+
+        /*---------------------------------*/
+        #modal1{
+          color: white;
+          border: 0px;
+          max-width: 50ch;
+          border-radius: 20px;
+          background-color: #0b132b;
+          
+        }
+        #modal1::backdrop{
+         /* From https://css.glass */
+          background: rgba(11, 19, 43, 0.59);
+          
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(7.1px);
+          -webkit-backdrop-filter: blur(7.1px);
+          border: 1px solid rgba(11, 19, 43, 0.3);
+        }
+       
+        #btn-abrir-modal1{
+          color: #9c63ff;
+          background-color: white;
+          border: 2px solid #9c63ff;
+         
+          border-radius: 10px;
+          padding: 10px; 
+        }
+        #btn-abrir-modal1:hover{
+          color: white;
+          background-color: #9c63ff;
+        }
+        #btn-cerrar-modal1{
+          background-color: transparent;
+          border: 0px;
+          margin-left: 90%;
+        }
+
+        
+        /* #modal2{
+          border: 0px;
+          max-width: 50ch;
+          border-radius: 20px;
+          background-color: #f5d954;
+          
+        }
+        #modal2::backdrop{
+        
+          background: rgba(11, 19, 43, 0.59);
+          
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(7.1px);
+          -webkit-backdrop-filter: blur(7.1px);
+          border: 1px solid rgba(11, 19, 43, 0.3);
+        }
+        #btn-cerrar-modal2{
+          background-color: transparent;
+          border: 0px;
+          margin-left: 90%;
+        } */
+        /* -------------------morado--------------------------- */
+        .modal{
+          border: 0px;
+          max-width: 50ch;
+          border-radius: 20px;
+          background-color: #f5d954;
+          
+        }
+        .modal::backdrop{
+         /* From https://css.glass */
+          background: rgba(11, 19, 43, 0.59);
+          
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(7.1px);
+          -webkit-backdrop-filter: blur(7.1px);
+          border: 1px solid rgba(11, 19, 43, 0.3);
+        }
+        .btn-abrir-modal{
+          color: #9c63ff;
+          background-color: white;
+          border: 2px solid #9c63ff;
+         
+          border-radius: 10px;
+          padding: 10px; 
+        }
+        .btn-cerrar-modal{
+          background-color: transparent;
+          border: 0px;
+          margin-left: 90%;
+        }
+        /* ------------------------amarillo------------------------- */
+        
+
+        .btn-abrir-modal1{
+          color: #ff9a00;
+          background-color: white;
+          border: 2px solid #ff9a00;
+         
+          border-radius: 10px;
+          padding: 10px; 
+        }
+        .btn-abrir-modal1:hover{
+          color: white;
+          background-color: #ff9a00;
+        }
+
+        .slider1 {
+          box-sizing: border-box;
+          position: relative;
+          width: 75%;
+          height: 110px;
+          margin: 0 auto 26px auto;
+          padding-top: 65px;
+          -webkit-user-select: none;
+          -khtml-user-select: none;
+          -moz-user-select: none;
+          -o-user-select: none;
+          user-select: none; }
+          .slider1 .timeline {
+            position: relative; }
+            .slider1 .timeline .markers {
+              position: absolute;
+              top: 0;
+              width: 100%;
+              height: 10px;
+              font: 16px/16px  sans-serif;
+              background: #e5e6e7;
+              border-radius: 5px;
+              cursor: default; }
+              .slider1 .timeline .markers div {
+                position: absolute;
+                top: 10px;
+                color: #808184;
+                text-align: center;
+                -webkit-transform: translate(-50%, 0);
+                -moz-transform: translate(-50%, 0);
+                -ms-transform: translate(-50%, 0);
+                -o-transform: translate(-50%, 0);
+                transform: translate(-50%, 0); }
+                .slider1 .timeline .markers div:before {
+                  content: '';
+                  display: block;
+                  width: 0;
+                  height: 12px;
+                  margin: 0 auto 5px auto;
+                  border-left: 2px solid #e5e6e7; }
+                .slider1 .timeline .markers div:first-child {
+                  left: 0;
+                  text-align: left;
+                  -webkit-transform: none;
+                  -moz-transform: none;
+                  -ms-transform: none;
+                  -o-transform: none;
+                  transform: none; }
+                  .slider1 .timeline .markers div:first-child:before {
+                    margin-left: 4px; }
+                .slider1 .timeline .markers div.last {
+                  right: 0;
+                  text-align: right;
+                  -webkit-transform: none;
+                  -moz-transform: none;
+                  -ms-transform: none;
+                  -o-transform: none;
+                  transform: none; }
+                  .slider .timeline .markers div.last:before {
+                    margin-right: 4px; }
+            .slider1 .timeline .bar {
+              position: absolute;
+              left: 0;
+              top: 0;
+              height: 10px;
+              height: 10px;
+              background: #ff9a00  repeat;
+              border-radius: 5px; }
+          .slider1 .playhead {
+            position: absolute;
+            top: 53px;
+            width: 30px;
+            height: 30px;
+            margin-left: -17px;
+            background: #fff;
+            border: 2px solid #ff9a00;
+            border-radius: 17px;
+            cursor: move; }
+            .slider1 .playhead div {
+              width: 16px;
+              height: 16px;
+              margin: 7px auto 0 auto;
+              background: #ff9a00;
+              border-radius: 8px; }
+          .slider1 .playhint {
+            position: absolute;
+            top: 0;
+            padding: 4px 5px 0 7px;
+            color: #fff;
+            font: 24px/32px  sans-serif;
+            text-align: center;
+            letter-spacing: 0.075em;
+            background: #ff9a00;
+            border-radius: 4px;
+            cursor: default;
+            -webkit-transform: translate(-50%, 0);
+            -moz-transform: translate(-50%, 0);
+            -ms-transform: translate(-50%, 0);
+            -o-transform: translate(-50%, 0);
+            transform: translate(-50%, 0); }
+            .slider1 .playhint abbr {
+              position: relative;
+              top: -0.4em;
+              margin-left: 2px;
+              font-size: 0.6em; }
+            .slider1 .playhint .icon {
+              position: absolute;
+              left: 50%;
+              bottom: -8px;
+              width: 12px;
+              height: 10px;
+              margin-left: -6px;
+              background: url(https://cdn.vectorstock.com/img/pages/purchase/sprite.png) -117px -47px no-repeat;
+              background-size: 211px 70px; }
+
+              .modal{
+                color: white;
+                border: 0px;
+                max-width: 50ch;
+                border-radius: 20px;
+                background-color: #ff9a00;
+                
+              }
+              .modal::backdrop{
+               /* From https://css.glass */
+                background: rgba(11, 19, 43, 0.59);
+                
+                box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+                backdrop-filter: blur(7.1px);
+                -webkit-backdrop-filter: blur(7.1px);
+                border: 1px solid rgba(11, 19, 43, 0.3);
+              }
+        /* -----------------fin amarillo----------------- */
+        
+        .shadow{
+          position:absolute;
+          top: 66%;
+          left: 80%;
+          width: 450px;
+          height: 450px;
+          background-color: #9c63ff;
+          border-radius: 250px;
+          filter: blur(70px);
+          z-index: -1;
+          opacity: 0.3; 
+        }
+        .shadow1{
+          position:absolute;
+          top: 63%;
+          left: 70%;
+          width: 250px;
+          height: 250px;
+          background-color: #ffda47;
+          border-radius: 250px;
+          filter: blur(70px);
+          z-index: -1;
+          opacity: 0.3;
+        }
+        .accion{
+          padding-top: 12px;
+        }
+        .separar{
+          margin-top: 200px;
+          width: 100%;
+          height: 300px;
+          
+        }
+      .texto{
+        position: absolute;
+        align-items: center;
+        color: white;
+        margin-left: 18%;
+        margin-top: 160px;
+        /* From https://css.glass */
+        background: rgba(161, 161, 161, 0.2);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        border: 1px solid rgba(161, 161, 161, 0.3);
+      }
+
+      
+      @media  (max-width: 1700px) {
+      .accion{
+        margin: 0%;
+        padding: 0%;
+       
+      }
+      .texto{
+        margin-top: 40px;
+        margin-left: 0%;
+      }
+      .card{
+
+      }
+
+    }
