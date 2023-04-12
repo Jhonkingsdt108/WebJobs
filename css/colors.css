@@ -112,7 +112,7 @@ h6 a:hover,
 .clients-testimonial .testimonials-slider .slick-dots li button:hover,
 .clients-testimonial .testimonials-slider .slick-dots .slick-active button {
   /*background-color: $color2;*/
-  background-color: #9C63FF; }
+  background-color: #1176FC; }
 
 .btn-info,
 .btn-default:hover,
@@ -142,7 +142,7 @@ h6 a:hover,
 .clients-testimonial .testimonials-slider .slick-dots li button:hover,
 .clients-testimonial .testimonials-slider .slick-dots .slick-active button {
   /*border-color: $color2;*/
-  border-color: #9C63FF; }
+  border-color: #1176FC; }
 
 .heading-wrap .btn-info:before {
   border-color: rgba(0, 155, 222, 0.3); }

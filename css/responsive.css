@@ -33,7 +33,9 @@
   .testimonials-gallery .testimonials-mask br {
     display: none; }
   .testimonials-gallery .testimonials-slide {
-    padding: 0 20px; } }
+    padding: 0 20px; } 
+  
+  }
 
 @media (min-width: 640px) {
   .hero-area .aligncenter {
@@ -184,7 +186,9 @@
     float: left;
     width: 50%;
     max-width: 665px;
-    box-shadow: 0 0 36px rgba(0, 0, 0, 0.19); } }
+    box-shadow: 0 0 36px rgba(0, 0, 0, 0.19); }
+    
+  }
 
 @media (min-width: 992px) {
   #header {
@@ -288,7 +292,7 @@
     padding-top: 71px; }
     .trial-block .alignleft {
       margin: 0 84px 0 -87px;
-      box-shadow: 11px 11px 76px rgba(0, 0, 0, 0.19); }
+      }
     .trial-block h2 {
       margin: 0 0 36px; }
     .trial-block p {
