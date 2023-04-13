@@ -703,4 +703,9 @@ border: 1px solid rgba(224, 191, 252, 0.3); */
       z-index: -1;
      margin: auto;
     }
-    
+    .title-terminos{
+      color: #fff;
+      font-family: 'roboto', sans-serif;
+      font-weight: 100;
+      text-transform: capitalize;
+    }
