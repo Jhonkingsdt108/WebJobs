@@ -47,6 +47,19 @@ Theme URI: http://www.htmlbeans.com/html/app-landing
 /*------------------------------------------------------------------
 1. import files / import files
 -------------------------------------------------------------------*/
+*::-webkit-scrollbar{
+	width: 11px;
+}
+*::-webkit-scrollbar-track{
+	background-color: #0b132b;
+}
+*::-webkit-scrollbar-thumb{
+	background-color: #9c63ff;
+	border-radius: 10px;
+}
+*::-webkit-scrollbar-thumb:hover{
+	background-color: #7c50c9;
+}
 .social-networks, .features-list, .facts-list, .demo-block ul, .price-col ul {
   margin: 0;
   padding: 0;
